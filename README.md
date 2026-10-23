@@ -1,4 +1,4 @@
-# CampusShelf — Hệ thống trao đổi tài liệu học tập sinh viên
+# Hệ thống trao đổi tài liệu học tập sinh viên
 
 Đồ án nhóm 26. Công nghệ: HTML/CSS/JavaScript thuần, Node.js + Express, SQLite (`better-sqlite3`). Phiên bản 2.0 bổ sung các phần còn thiếu so với 17 user story trong slide.
 
